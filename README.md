@@ -1,5 +1,5 @@
 # Progress bars Python
-
+![git!](https://raw.githubusercontent.com/jigras/progress_bars/master/media/git-logo.png)
 
 ## progress
 Easy progress reporting for Python
@@ -11,7 +11,7 @@ $ pip install progress
 Licence: ISC License
 
 ## alive-progress
-An animated and smart Progress Bar for python!
+An animated and smart Progress Bar for Python!
 
 [https://pypi.org/project/alive-progress/](https://pypi.org/project/alive-progress/)
 
