@@ -1,5 +1,5 @@
 # Progress bars Python
-![git!](https://raw.githubusercontent.com/jigras/progress_bars/master/media/git-logo.png)
+![git!](https://raw.githubusercontent.com/jigras/progress_bars/master/media/alive-progress_mini.gif)
 
 ## progress
 Easy progress reporting for Python
